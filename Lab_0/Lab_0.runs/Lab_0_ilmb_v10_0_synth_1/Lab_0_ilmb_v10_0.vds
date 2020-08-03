@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Aug  3 17:44:13 2020
+# Process ID: 13004
+# Current directory: F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_0/Lab_0.runs/Lab_0_ilmb_v10_0_synth_1
+# Command line: vivado.exe -log Lab_0_ilmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Lab_0_ilmb_v10_0.tcl
+# Log file: F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_0/Lab_0.runs/Lab_0_ilmb_v10_0_synth_1/Lab_0_ilmb_v10_0.vds
+# Journal file: F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_0/Lab_0.runs/Lab_0_ilmb_v10_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Lab_0_ilmb_v10_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 307.137 ; gain = 22.887
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP Lab_0_ilmb_v10_0, cache-ID = 31e7466202f49d4f.
+INFO: [Common 17-206] Exiting Vivado at Mon Aug  3 17:44:55 2020...
