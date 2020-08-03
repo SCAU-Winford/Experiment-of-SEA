@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_2_2/Lab_2_2.srcs/sources_1/new/Lab_2_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab_2_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_2_2/Lab_2_2.srcs/sim_1/new/Testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Testbench
