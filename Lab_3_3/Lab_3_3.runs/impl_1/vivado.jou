@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Aug  5 22:22:25 2020
+# Process ID: 4304
+# Current directory: F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_3_3/Lab_3_3.runs/impl_1
+# Command line: vivado.exe -log Lab_3_3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab_3_3.tcl -notrace
+# Log file: F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_3_3/Lab_3_3.runs/impl_1/Lab_3_3.vdi
+# Journal file: F:/Experiment_of_SEA/FPGA_Experimental_Project/Lab_3_3/Lab_3_3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab_3_3.tcl -notrace
